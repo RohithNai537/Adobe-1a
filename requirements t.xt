@@ -1,0 +1,8 @@
+torch==1.10.0
+torchvision==0.11.1
+transformers
+pymupdf
+pdf2image
+pillow
+opencv-python-headless
+detectron2 @ https://dl.fbaipublicfiles.com/detectron2/wheels/cu113/torch1.10/detectron2-0.6%2Bcu113-cp39-cp39-win_amd64.whl
